@@ -11,7 +11,8 @@ und nicht nur das Design verunstalten sondern auch die Ladezeit der Seite um ein
 
 ## Überblick
 
-* Web Actions Konzept: http://tantek.com/2011/220/b1/web-actions-a-new-building-block 
+* Web Actions Konzept: http://tantek.com/2011/220/b1/web-actions-a-new-building-block
+* Mozillas Web Activities: https://hacks.mozilla.org/2013/01/introducing-web-activities/
 * Web Intents: http://webintents.org
 * Custom Schemes: http://notizblog.org/2012/11/09/custom-web-schemes/
 * Browser ID/Persona: https://login.persona.org
